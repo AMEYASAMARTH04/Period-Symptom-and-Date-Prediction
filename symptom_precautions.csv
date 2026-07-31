@@ -1,0 +1,21 @@
+Predicted_Symptom,Point_No,Precaution
+Cramps,1,• Use a warm compress
+Cramps,2,• Stay hydrated
+Cramps,3,• Take adequate rest
+Cramps,4,• Try gentle movement
+Fatigue,1,• Get adequate sleep
+Fatigue,2,• Stay hydrated
+Fatigue,3,• Eat regular balanced meals
+Fatigue,4,• Take adequate rest
+Headache,1,• Stay hydrated
+Headache,2,• Eat meals regularly
+Headache,3,• Get adequate sleep
+Headache,4,• Take breaks from prolonged screen use
+Bloating,1,• Stay hydrated
+Bloating,2,• Eat smaller balanced meals
+Bloating,3,• Try gentle physical activity
+Bloating,4,• Avoid foods that personally worsen bloating
+Mood Swings,1,• Maintain adequate sleep
+Mood Swings,2,• Eat regular balanced meals
+Mood Swings,3,• Try gentle exercise
+Mood Swings,4,• Practice relaxation and stress management
